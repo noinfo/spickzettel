@@ -1,4 +1,5 @@
-# Chat Abkürzungen Spickzettel / Chat Acronym Cheatsheet
+# spickzettel
+## Chat Abkürzungen Spickzettel / Chat Acronym Cheatsheet
 
 - **AFAIK**: As Far As I Know
 - **AFK**: Away From Keyboard
@@ -31,4 +32,4 @@
 
 ---
 
-iOS/iPadOS/macOS Shortcut: https://www.icloud.com/shortcuts/a9027c64aa10485c9b0c76fba6242b6d
+[iOS / iPadOS / macOS Shortcut](https://www.icloud.com/shortcuts/a9027c64aa10485c9b0c76fba6242b6d) that shows this link.
