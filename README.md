@@ -1,5 +1,4 @@
-# spickzettel
-Chat Abkürzungen Spickzettel / Chat Acronym Cheatsheet
+# Chat Abkürzungen Spickzettel / Chat Acronym Cheatsheet
 
 - **AFAIK**: As Far As I Know
 - **AFK**: Away From Keyboard
@@ -30,3 +29,6 @@ Chat Abkürzungen Spickzettel / Chat Acronym Cheatsheet
 - **YOLO**: You Only Live Once
 - **YW**: You're Welcome
 
+---
+
+iOS/iPadOS/macOS Shortcut: https://www.icloud.com/shortcuts/a9027c64aa10485c9b0c76fba6242b6d
